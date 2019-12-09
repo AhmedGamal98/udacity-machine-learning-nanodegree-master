@@ -13,3 +13,9 @@ Projects :
 5-Titanic survival exploration.
 
 6-Creating customer segments.
+
+# Certifications 
+My certifiaction from NTL [here](NTL.jpeg)
+My certifiaction from Udacity [here](Udacity.jpeg)
+
+
